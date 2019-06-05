@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: 0.0.5\n"
 "PO-Revision-Date: 2017-12-06\n"
 "Last-Translator: mats.dufberg@iis.se\n"
-"Language-Team: Zonemaster Team\n"
+"Language-Team: Zonemaster  Team\n"
 "MIME-Version: 1.0\n"
 
 msgid "Print version information and exit."
